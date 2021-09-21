@@ -2,7 +2,7 @@
 
 "YRPXYZ SPACE PAD MIDI CONTROLLER"
 
-This is kind of an evolution of an a midi "XY Pad" but instead of being limited to a puny 2 dimensions you can not work in 3D, controlling up to 6 midi CC values (YPRXYZ) instead of the traditional 2. 
+This is kind of an evolution of an a midi "XY Pad" but instead of being limited to a puny 2 dimensions you can now work in 3D, controlling up to 6 midi CC values (YPRXYZ) instead of the traditional 2. 
 
 ## Components
 Teensy
